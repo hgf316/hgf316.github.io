@@ -1,0 +1,5 @@
+winget install -e --id Discord.Discord
+winget install -e --id Google.Chrome
+winget install -e --id Valve.Steam
+winget install -e --id Spotify.Spotify
+winget install -e --id OBSProject.OBSStudio
